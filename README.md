@@ -27,7 +27,7 @@
 
 ---
 ### О репозитиории 
-#### В директории [utils](utils) лежат треубемые для тестов [Локаторы](utils/locators.py), [Тестовые данные user-a](utils/test_data.py) ,[urls](utils/urls.py).
+#### В директории [src](src) лежат требуемые для тестов [Локаторы](utils/locators.py), [Тестовые данные user-a](utils/test_data.py) ,[urls](utils/urls.py).
 
 #### В директории [pages](pages) лежат actions [Общие](pages/base_page.py), [для "Домашней страницы"](pages/home_page.py), [для "Страницы заказа самоката"](pages/order_page.py)
 
